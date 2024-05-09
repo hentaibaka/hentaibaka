@@ -4,3 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hentaibaka&layout=compact)](https://github.com/hentaibaka/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/83a6cf4a-0930-4f4a-a662-c41c814dff39.svg?style=flat)](https://wakatime.com/@83a6cf4a-0930-4f4a-a662-c41c814dff39)
